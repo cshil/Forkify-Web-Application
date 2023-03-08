@@ -1,4 +1,11 @@
-# forkify project
+# Forkify project
 
-Recipe application with custom recipe uploads.
-View my project hosted at https://forkify-shilpa.netlify.app
+#### Video Demo:
+
+#### Description:
+
+My Project Forkify application follows the MVC (Model, View, Controller) architecture. The project deals with various food recipes that can be found in a single click. The project integrates seamlessly with the Forkify API that pulls down various recipes from the internet. The project also has the ability where a user can upload their own recipes and bookmark the recipes. The bookmarks are stored in a local storage. The web application has pagination that allows the user to navigate across multiple pages. The user can also update the number of servings and a recipe gets customized accordingly. The project works according to the publisher subscriber model.
+
+src directory - The img folder contains all the required images for the project, The views folder contains the various views that are rendered by the application at the clicks of the user. A data attribute has been created on each of the buttons which renders the markup. The sass folder contains the CSS styles used in the Project. Bootstarp has been added to render the CSS in a mobile freindly way.
+
+View my project hosted at https://forkify-shilpa.netlify.app. This is a handy web application that easy to find a quick recipe when on a rush or store your favourite recipes on the site and also to bookmark popular ones.
